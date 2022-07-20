@@ -323,7 +323,6 @@ body {
   transition: border-color .25s;
 }
 
-.modal-form-input:hover,
 .modal-form-input:focus {
   border-color: var(--brend-color);
 }
@@ -345,7 +344,6 @@ body {
   transition: fill .25s;
 }
 
-.modal-form-input:hover ~ .modal-icon,
 .modal-form-input:focus ~ .modal-icon {
   fill: var(--brend-color);
 }
@@ -371,7 +369,6 @@ body {
   color: rgba(117, 117, 117, 0.5);
 }
 
-.modal-form-textarea:hover,
 .modal-form-textarea:focus {
   border-color: var(--brend-color);
 }
